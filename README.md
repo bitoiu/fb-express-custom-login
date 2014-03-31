@@ -1,6 +1,6 @@
-# Facebook expressjs custom login flow template
+## Facebook expressjs custom login flow template
 
-## Set-up
+### Set-up
 
 * install [node](http://nodejs.org/)
 * clone this repo: `git clone git@github.com:bitoiu/fb-express-custom-login`
